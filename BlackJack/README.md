@@ -1,5 +1,5 @@
 ### Description:
-This program implements a game of BlackJack by encapsulating several different classes representing different aspects of the game such as cards, players, and 
+This program implements a console game of BlackJack by encapsulating several different classes representing different aspects of the game such as cards, players, and 
 a deck. The user can play against a dealer with a starting amount of $1000 and play until they choose to quit or go bankrupt. The player is also able to make other choices 
 during their turn such as viewing all remaining cards in the deck and sorting the cards in their hand by rank. If the player gets an initial hand of 10 or 11, they are
 also able to choose if they wish to bet and additional $50 during a game. There is no ability to Split in this program however. If the player manages to get a 
