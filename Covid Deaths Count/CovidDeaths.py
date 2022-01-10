@@ -1,5 +1,4 @@
 #Author:    Allyson Warren
-#Lable:     Homework 3
 #Title:     Covid Deaths Avg Age & StdDev
 #Course:    CMPS 4553 Computational Programming Methods
 #Semester:  Fall 2021
@@ -68,8 +67,6 @@ with open('CovidDeathOutput.txt', 'w') as f:
     #Header
     print("Allyson Warren", file=f)
     print("9/14/2021" , file = f)
-    print("Homework 3: Covid Deaths Avg Age & StdDev", file = f)
-    print("CMPS 4553 Computational Programming Methods", file = f)
     print("-----------------------------------------------", file = f)
     #Print results of the average age and standard deviation
     print("The average age people die from Covid-19 is:", file = f)
