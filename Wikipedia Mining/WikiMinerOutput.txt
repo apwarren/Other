@@ -1,0 +1,16 @@
+Allyson Warren
+Project 1           
+Wikipedia Miner           
+CMPS 4553 Computational Programming Methods
+
+The 10 most common words are:
+('data', 97)
+('science', 66)
+('cite', 29)
+('statistic', 22)
+('used', 14)
+('field', 10)
+('knowledge', 8)
+('information', 8)
+('statistical', 8)
+('new', 7)
