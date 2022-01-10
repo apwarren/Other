@@ -1,5 +1,5 @@
 ## Allyson Warren
-#### Repo: Other (for personal use)
+#### Repo: Other Projects
 #### Email: allywarren7@gmail.com
 #### Image:
 <!--- my image was huge and I couldn't figure out how to downsize it with markdown
