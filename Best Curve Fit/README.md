@@ -6,7 +6,7 @@ different models that plot the best curve fit and then are compared to
 determine which had the closest value to the true value of defects. The
 first and third file of data are compared using the Go S_Shaped Model and
 the Goel-Okumoto Model and both model fits are plotted onto a graph to show
-what their fits visually. The second file also both of these models, but it
+what their fits visually. The second file also uses both of these models, but it
 is also fitted with another model called the Yamada model to see which of these
 is closest to the true value of the graph. The models are then used to each 
 predict the outcome of a given x variable. Each model's prediction is also 
